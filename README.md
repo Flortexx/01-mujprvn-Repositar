@@ -1,2 +1,2 @@
-# 01-mujprvn-Repositar
+# 01-mujprvin-Repositar
 Lukáš Walter
