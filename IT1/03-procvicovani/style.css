@@ -1,0 +1,38 @@
+.navbar {
+    background-color: rgb(67, 144, 167);
+    padding:15px;
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+
+.navbar a{
+    color:rgb(0, 0, 0);
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color:red
+}
+
+.body {
+    margin:0pc
+}
+
+.headMainPage {
+    margin-top: 150px;
+} 
+
+.mainPageContainer {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.našeSlužby {
+    background-color: black;
+    color:white;
+    padding: 40px;
+}
+
+
