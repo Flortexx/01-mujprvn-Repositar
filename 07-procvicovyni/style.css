@@ -1,0 +1,70 @@
+.rowContainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    flex-direction: row;
+}
+
+.card{
+    border: solid .1px grey !important;
+    border-radius: 0px !important;
+    margin: 20px;
+}
+
+.card img{
+    padding: 10px;
+}
+
+.card-body a {
+    background-color: green;
+    border:solid .1px green !important;
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+    
+.checked {
+    color: orange;
+  }
+
+.leftMenu{
+    display: flex;
+    flex-direction: column;
+    border: solid .1px black;
+    margin-top: 50px;
+    padding: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+.leftMenu a {
+    text-decoration: none;
+    color: black;
+    font-size:  x-large;
+    border-bottom: 1px solid grey;
+    text-align: left;
+    margin-bottom: 10px solid ;
+}
+
+.leftMenu a:hover{
+    background-color: yellow;
+    color: black;
+
+}
+
+.globalContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.footer{
+text-align: center;
+padding: 50px;
+background-color: black;
+color: white;
+font-size: x-large;
+}
+   
