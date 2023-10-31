@@ -54,7 +54,23 @@ function checkResult() {
 }
 
 
-    
+function forCycle(){
+ 
+let userInput = parseInt(document.getElementById("cycleInput").value)
+let output=""
+ 
+    for(let i = 0; i < userInput; i++){
+ 
+      output = output + "."
+ 
+        document.getElementById("output").innerHTML= output
+    }
+}
+
+
+  
+   
+
     
 
 
